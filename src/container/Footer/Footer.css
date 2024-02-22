@@ -1,0 +1,19 @@
+/*.app__footer {
+    width: 100%;
+    position: relative;
+    z-index: 1; 
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+
+    background: var(--color-black);
+    padding-top: 20px;
+}
+
+/*.app__newsletter {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 20px;
+}*/
